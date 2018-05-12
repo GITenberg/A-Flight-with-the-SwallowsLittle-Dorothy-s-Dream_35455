@@ -1,0 +1,29 @@
+_repo: A-Flight-with-the-SwallowsLittle-Dorothy-s-Dream_35455
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Emma
+    alias: Marshall, Emma Martin
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '28350'
+    url: http://www.gutenberg.org/2009/agents/28350
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+title: A Flight with the Swallows; Or, Little Dorothy's Dream
+url: http://www.gutenberg.org/ebooks/35455
